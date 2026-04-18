@@ -7,3 +7,5 @@ langchain-google-genai
 python-dotenv
 langchain-groq
 ipykernel
+langchain-tavily
+numexpr
